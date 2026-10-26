@@ -1,23 +1,3 @@
-/*
-    ********************************************************************
-    Odsek:          Elektrotehnika i racunarstvo
-    Departman:      Racunarstvo i automatika
-    Katedra:        Racunarska tehnika i racunarske komunikacije (RT-RK)
-    Predmet:        Osnovi Racunarskih Mreza
-    Godina studija: Treca (III)
-    Skolska godina: 2021/22
-    Semestar:       Zimski (V)
-
-    Ime fajla:      server.c
-    Opis:           UDP server
-
-    Platforma:      Raspberry Pi 2 - Model B
-    OS:             Raspbian
-    ********************************************************************
-*/
-//TODO: staviti printf za svake rp_pack slucajeve
-//	staviti rp_pack malloc u while-u i free(rp_pack) na kraju svakog slucaja
-
 #include <stdio.h>      //printf, perror
 #include <stdlib.h>     //EXIT_FAILURE, EXIT_SUCCESS
 #include <string.h>     //memset
