@@ -1,21 +1,3 @@
-/*
-    ********************************************************************
-    Odsek:          Elektrotehnika i racunarstvo
-    Departman:      Racunarstvo i automatika
-    Katedra:        Racunarska tehnika i racunarske komunikacije (RT-RK)
-    Predmet:        Osnovi Racunarskih Mreza
-    Godina studija: Treca (III)
-    Skolska godina: 2021/22
-    Semestar:       Zimski (V)
-
-    Ime fajla:      client.c
-    Opis:           UDP klijent
-
-    Platforma:      Raspberry Pi 2 - Model B
-    OS:             Raspbian
-    ********************************************************************
-*/
-
 #include <asm-generic/socket.h>
 #include <stdio.h>
 #include <stdlib.h>
